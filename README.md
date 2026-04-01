@@ -1,6 +1,9 @@
 # 💫 About Me:
-I'm passionate Blockchain Developer having 3+ Yrs of experience in helping the world in Decentralizing
-
+Backend & Blockchain Engineer with 4+ years of experience designing and deploying smart contracts and
+blockchain-integrated backend systems across Ethereum-compatible networks. Proficient in Solidity, Node.js,
+and Web3 integrations, with hands-on experience in gas optimization, smart contract auditing, and secure system
+architecture. Currently contributing to blockchain infrastructure monitoring and incident analysis for Coinbase
+(via contract), with focus on production reliability and performance.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankit-pareek-5957ba141) 
